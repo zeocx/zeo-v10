@@ -1,0 +1,22 @@
+{
+    "self_mode": true,
+	"autobio": true,
+	"antihidetag": true,
+	"user_register": false,
+	"anti_delete" : false,
+	"anticall": false,
+	"auto_welcome_msg": true,
+	"auto_leave_msg": true,
+	"prefix": ".",
+	"language":"ind",
+	"ownerNumber": "6289516207932",
+	"ownerNumberr": "6289516207932",
+	"cr": "zeeone",
+	"ownername": "zeo",
+	"botname":"zeocx",
+	"thumb":"thumbnail_1.jpg",
+	"thumbnail":"thumbnail_2_1.jpg",
+	"fakethumb":"zeo.jpg", 
+	"donasi":"donasi.jpg",
+	"fake": " 「  zeocx  」\nRun By zeo"
+}
